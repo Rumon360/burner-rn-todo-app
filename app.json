@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "burner",
-    "slug": "burner"
+    "slug": "burner",
+    "extra": {
+      "eas": {
+        "projectId": "6b1b37be-2606-4416-a6b0-d8e06fb6b459"
+      }
+    },
+    "android": {
+      "package": "com.rumon360.burner"
+    }
   }
 }
